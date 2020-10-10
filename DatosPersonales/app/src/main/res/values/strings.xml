@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+
+    <string name="detalles">Confirmar Datos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="fechaNac">Agregar Fecha de Nacimiento</string>
+    <string name="telefono">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="hint">Nombre</string>
+    <string name="ptelefono">ptelefono</string>
+    <string name="pemail">pemail</string>
+    <string name="pfecha">pfecha</string>
+    <string name="pdescrip">pdescrip</string>
+    <string name="cargando">Guardando datos</string>
+    <string name="resumen"></string>
+
+
+
+</resources>
